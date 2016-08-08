@@ -1,9 +1,0 @@
-[db]
-host = google.com
-name = nome_do_banco
-username = usuario
-password = senha
-
-[google]
-clientId = 1234564687837
-secret = segredo_nao_se_conta
